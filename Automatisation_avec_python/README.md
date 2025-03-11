@@ -24,14 +24,11 @@ from tkinter import filedialog
 ```
 
 ## Structure des données standardisées
-Le format de sortie comprend 7 colonnes standardisées :
-- **Gencode** : Code produit
-- **Volume** : Quantité vendue
-- **Valeur HT** : Valeur hors taxes
-- **Valeur TTC** : Valeur toutes taxes comprises
-- **PDV** : Nombre de points de vente avec des ventes
-- **date** : Date de la vente
-- **Enseigne** : Nom de l'enseigne
+
+| Gencode | Volume | Valeur HT | Valeur TTC | PDV | Date | Enseigne |
+|---------|--------|-----------|------------|-----|------|----------|
+| XXXXXXX |  100   |  1200.50  |  1440.60   |  10 | YYYY-MM-DD |  ABC123  |
+
 
 ## Utilisation
 1. Lancez le programme
