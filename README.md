@@ -9,10 +9,10 @@ Bienvenue sur mon dépôt **Professional Projects**, où vous trouverez une coll
 - **[`Automatisation_avec_python`](./Automatisation_avec_python)**  
 Ce projet porte sur la création d'un outil automatisé de traitement de données pour standardiser les fichiers de ventes provenant de différentes enseignes.
 
-- Extraction des métadonnées (enseigne, date) directement depuis le nom des fichiers sources.
-- Transformation et normalisation des données brutes selon des règles spécifiques à chaque enseigne.
-- Structuration dans un format standardisé à 7 colonnes (Gencode, Volume, Valeur HT, Valeur TTC, PDV, date, Enseigne).
-- Vérification automatique de l'intégrité des données par comparaison des totaux (volumes et chiffre d'affaires). 
+   - Extraction des métadonnées (enseigne, date) directement depuis le nom des fichiers sources.
+   - Transformation et normalisation des données brutes selon des règles spécifiques à chaque enseigne.
+   - Structuration dans un format standardisé à 7 colonnes (Gencode, Volume, Valeur HT, Valeur TTC, PDV, date, Enseigne).
+   - Vérification automatique de l'intégrité des données par comparaison des totaux (volumes et chiffre d'affaires). 
 
 ---
 
