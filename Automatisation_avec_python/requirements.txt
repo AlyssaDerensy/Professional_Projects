@@ -1,0 +1,7 @@
+pandas
+numpy
+PyQt6
+ipykernel
+openpyxl
+xlrd
+matplotlib
