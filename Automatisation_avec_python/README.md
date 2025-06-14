@@ -4,7 +4,7 @@
 
 Ce projet a pour objectif de standardiser et d'automatiser le traitement de fichiers de ventes issus de différentes enseignes. Il permet de transformer des fichiers Excel hétérogènes en un format structuré et homogène, prêt à être utilisé pour des analyses ou des tableaux de bord (via Power BI).
 
-Le traitement est réalisé à l’aide d’un notebook Jupyter (`Algorithme - Ventes.ipynb`) qui s’appuie sur un module Python (`utils.py`) contenant les fonctions utilitaires, un module python (`transformation.py`) contenant la fonction de transformation des données puis un module python (`verification.py`) contenant la fonction de vérification de l'intégrité des données..
+Le traitement est réalisé à l’aide d’un notebook Jupyter (`Algorithme - Ventes.ipynb`) qui s’appuie sur un module Python (`utils.py`) contenant les fonctions utilitaires, un module python (`transformation.py`) contenant la fonction de transformation des données, un module python (`verification.py`) contenant la fonction de vérification de l'intégrité des données puis un module exportation contenant la fonction pour exporter les données vers un ou plusieurs fichiers csv.
 
 ---
 
